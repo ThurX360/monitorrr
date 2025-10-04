@@ -1,0 +1,18 @@
+user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/124.0 Safari/537.36"
+base_url: "https://www.futwiz.com"
+timeout_seconds: 20
+delay_seconds: 1.2
+random_jitter: 0.5
+max_retries: 3
+
+selectors:
+  list_item: "body"
+  name: ".card-26-name"
+  rating: ".card-26-rating"
+  position: ".card-26-position"
+  # PC only
+  price: ".player-price-block.pc-block .price-num"
+
+  # Sold prices (PC)
+  sold_avg_bin: "span.avgbin, .avg-area .avgbin"
+  sold_avg_auction: "span.avgauction, .avg-area .avgauction"

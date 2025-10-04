@@ -1,0 +1,542 @@
+﻿timestamp,name,rating,position,current_pc,avg_bin,avg_auction,target,source_url
+2025-10-04T00:39:34Z,Claudia Pina,86,LW,62500.0,,,,https://www.futwiz.com/fc26/player/claudia-pina/99
+2025-10-04T00:39:34Z,Oliver Kahn,86,GK,0.0,,,,https://www.futwiz.com/fc26/player/oliver-kahn/5
+2025-10-04T00:39:34Z,Kroos,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/toni-kroos/6
+2025-10-04T00:39:34Z,Seger,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/caroline-seger/8
+2025-10-04T00:39:34Z,Iniesta,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/andres-iniesta/9
+2025-10-04T00:39:34Z,Ibrahimovic,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/zlatan-ibrahimovic/11
+2025-10-04T00:39:34Z,Ronaldo,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/ronaldo/27
+2025-10-04T00:39:34Z,Henry,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/thierry-henry/29
+2025-10-04T00:39:34Z,Reijnders,86,CM,155000.0,,,,https://www.futwiz.com/fc26/player/tijjani-reijnders/83
+2025-10-04T00:39:34Z,Harder,86,CAM,5800.0,,,,https://www.futwiz.com/fc26/player/pernille-harder/84
+2025-10-04T00:39:34Z,Dumornay,86,ST,48750.0,,,,https://www.futwiz.com/fc26/player/melchie-dumornay/85
+2025-10-04T00:39:34Z,Nico Williams,86,LM,188000.0,,,,https://www.futwiz.com/fc26/player/nico-williams/86
+2025-10-04T00:39:34Z,Tonali,86,CDM,9000.0,,,,https://www.futwiz.com/fc26/player/sandro-tonali/87
+2025-10-04T00:39:34Z,Schuller,86,ST,6100.0,,,,https://www.futwiz.com/fc26/player/lea-schuller/89
+2025-10-04T00:39:34Z,Calhanoglu,86,CDM,6200.0,,,,https://www.futwiz.com/fc26/player/hakan-calhanoglu/90
+2025-10-04T00:39:34Z,Konate,86,CB,26500.0,,,,https://www.futwiz.com/fc26/player/ibrahima-konate/91
+2025-10-04T00:39:34Z,Ona Batlle,86,RB,6000.0,,,,https://www.futwiz.com/fc26/player/ona-batlle/92
+2025-10-04T00:39:34Z,Buhl,86,LM,5900.0,,,,https://www.futwiz.com/fc26/player/klara-buhl/94
+2025-10-04T00:39:34Z,Bruno Guimaraes,86,CM,6100.0,,,,https://www.futwiz.com/fc26/player/bruno-guimaraes/95
+2025-10-04T00:39:34Z,Ruben Dias,86,CB,6100.0,,,,https://www.futwiz.com/fc26/player/ruben-dias/97
+2025-10-04T00:39:34Z,Alexander-Arnold,86,RB,7500.0,,,,https://www.futwiz.com/fc26/player/trent-alexander-arnold/98
+2025-10-04T00:39:34Z,Geyoro,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/grace-geyoro/101
+2025-10-04T00:39:34Z,Rudiger,86,CB,48000.0,,,,https://www.futwiz.com/fc26/player/antonio-rudiger/102
+2025-10-04T00:39:34Z,Kobel,86,GK,6000.0,,,,https://www.futwiz.com/fc26/player/gregor-kobel/18095
+2025-10-04T00:39:34Z,ter Stegen,86,GK,7100.0,,,,https://www.futwiz.com/fc26/player/marc-andre-ter-stegen/18096
+2025-10-04T00:39:34Z,King,86,CB,294000.0,,,,https://www.futwiz.com/fc26/player/ledley-king/19650
+2025-10-04T00:39:34Z,Kanu,86,ST,27000.0,,,,https://www.futwiz.com/fc26/player/nwankwo-kanu/19693
+2025-10-04T00:39:34Z,Essien,86,CDM,0.0,,,,https://www.futwiz.com/fc26/player/michael-essien/19691
+2025-10-04T00:39:34Z,Donovan,86,CAM,128000.0,,,,https://www.futwiz.com/fc26/player/landon-donovan/19690
+2025-10-04T00:39:34Z,Kuyt,86,CAM,68000.0,,,,https://www.futwiz.com/fc26/player/dirk-kuyt/19689
+2025-10-04T00:39:34Z,Geyoro,86,CM,21250.0,,,,https://www.futwiz.com/fc26/player/grace-geyoro/19685
+2025-10-04T00:39:34Z,Rogers,86,CAM,0.0,,,,https://www.futwiz.com/fc26/player/morgan-rogers/19684
+2025-10-04T00:39:34Z,Tomori,86,CB,0.0,,,,https://www.futwiz.com/fc26/player/fikayo-tomori/19683
+2025-10-04T00:39:34Z,Campbell,86,CB,0.0,,,,https://www.futwiz.com/fc26/player/sol-campbell/19682
+2025-10-04T00:39:34Z,Al Jaber,86,ST,69500.0,,,,https://www.futwiz.com/fc26/player/sami-al-jaber/19681
+2025-10-04T00:39:34Z,Larsson,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/henrik-larsson/19680
+2025-10-04T00:39:34Z,Crespo,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/hernan-crespo/19677
+2025-10-04T00:39:34Z,Hernandez,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/luis-hernandez/19671
+2025-10-04T00:39:34Z,Park Ji Sung,86,LM,130000.0,,,,https://www.futwiz.com/fc26/player/park-ji-sung/19670
+2025-10-04T00:39:34Z,Keane,86,ST,325000.0,,,,https://www.futwiz.com/fc26/player/robbie-keane/19669
+2025-10-04T00:39:34Z,Williams,86,CM,93000.0,,,,https://www.futwiz.com/fc26/player/fara-williams/19668
+2025-10-04T00:39:34Z,Cha Bum Kun,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/cha-bum-kun/19664
+2025-10-04T00:39:34Z,Keane,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/roy-keane/19663
+2025-10-04T00:39:34Z,Ramires,86,CDM,1780000.0,,,,https://www.futwiz.com/fc26/player/ramires/19661
+2025-10-04T00:39:34Z,Gattuso,86,CDM,0.0,,,,https://www.futwiz.com/fc26/player/gennaro-gattuso/19658
+2025-10-04T00:39:34Z,Ljungberg,86,LM,110000.0,,,,https://www.futwiz.com/fc26/player/freddie-ljungberg/19657
+2025-10-04T00:39:34Z,Veron,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/juan-sebastian-veron/19655
+2025-10-04T00:39:34Z,Rosicky,86,CAM,107000.0,,,,https://www.futwiz.com/fc26/player/tomas-rosicky/19654
+2025-10-04T00:39:34Z,Zambrotta,86,RB,0.0,,,,https://www.futwiz.com/fc26/player/gianluca-zambrotta/19653
+2025-10-04T00:39:34Z,Govou,86,ST,420000.0,,,,https://www.futwiz.com/fc26/player/sidney-govou/19652
+2025-10-04T00:39:34Z,Giuly,86,RM,106000.0,,,,https://www.futwiz.com/fc26/player/ludovic-giuly/19651
+2025-10-04T00:39:34Z,Gyokeres,87,ST,130000.0,,,,https://www.futwiz.com/fc26/player/viktor-gyokeres/108
+2025-10-04T00:39:34Z,Kerr,87,ST,8900.0,,,,https://www.futwiz.com/fc26/player/sam-kerr/107
+2025-10-04T00:39:34Z,Barella,87,CM,21000.0,,,,https://www.futwiz.com/fc26/player/nicolo-barella/106
+2025-10-04T00:39:34Z,Osimhen,87,ST,8200.0,,,,https://www.futwiz.com/fc26/player/victor-osimhen/105
+2025-10-04T00:39:34Z,Hegerberg,87,ST,8900.0,,,,https://www.futwiz.com/fc26/player/ada-hegerberg/81
+2025-10-04T00:39:34Z,Swanson,87,LM,9500.0,,,,https://www.futwiz.com/fc26/player/mallory-swanson/80
+2025-10-04T00:39:34Z,Mead,87,RM,8800.0,,,,https://www.futwiz.com/fc26/player/beth-mead/79
+2025-10-04T00:39:34Z,Williamson,87,CB,8800.0,,,,https://www.futwiz.com/fc26/player/leah-williamson/78
+2025-10-04T00:39:34Z,Bronze,87,RB,9000.0,,,,https://www.futwiz.com/fc26/player/lucy-bronze/75
+2025-10-04T00:39:34Z,Heaps,87,CAM,8900.0,,,,https://www.futwiz.com/fc26/player/lindsey-heaps/74
+2025-10-04T00:39:34Z,Kelly,87,RM,8900.0,,,,https://www.futwiz.com/fc26/player/chloe-kelly/73
+2025-10-04T00:39:34Z,Orban,86,CB,17750.0,,,,https://www.futwiz.com/fc26/player/willi-orban/20401
+2025-10-04T00:39:34Z,Joao Neves,86,CM,299000.0,,,,https://www.futwiz.com/fc26/player/joao-neves/20387
+2025-10-04T00:39:34Z,Stanway,86,CDM,18000.0,,,,https://www.futwiz.com/fc26/player/georgia-stanway/20354
+2025-10-04T00:39:34Z,Diaz,86,LM,310000.0,,,,https://www.futwiz.com/fc26/player/luis-diaz/20327
+2025-10-04T00:39:34Z,Zubimendi,86,CDM,,,,,https://www.futwiz.com/fc26/player/zubimendi/20325
+2025-10-04T00:39:34Z,Renard,86,CB,144000.0,,,,https://www.futwiz.com/fc26/player/wendie-renard/20324
+2025-10-04T00:39:34Z,Eder Militao,86,CB,389000.0,,,,https://www.futwiz.com/fc26/player/eder-militao/20300
+2025-10-04T00:39:34Z,Gravenberch,86,CDM,250000.0,,,,https://www.futwiz.com/fc26/player/ryan-gravenberch/20299
+2025-10-04T00:39:34Z,Pulisic,86,ST,200000.0,,,,https://www.futwiz.com/fc26/player/christian-pulisic/20298
+2025-10-04T00:39:34Z,Pavard,86,CB,67500.0,,,,https://www.futwiz.com/fc26/player/benjamin-pavard/20270
+2025-10-04T00:39:34Z,Marcos Llorente,86,RB,399000.0,,,,https://www.futwiz.com/fc26/player/marcos-llorente/20269
+2025-10-04T00:39:34Z,Carragher,86,CB,75000.0,,,,https://www.futwiz.com/fc26/player/jamie-carragher/19696
+2025-10-04T00:39:34Z,Solskjaer,86,ST,104000.0,,,,https://www.futwiz.com/fc26/player/ole-gunnar-solskjaer/19694
+2025-10-04T00:39:34Z,Marchisio,87,CM,579000.0,,,,https://www.futwiz.com/fc26/player/claudio-marchisio/19623
+2025-10-04T00:39:34Z,Stam,87,CB,1780000.0,,,,https://www.futwiz.com/fc26/player/jaap-stam/19621
+2025-10-04T00:39:34Z,Hamsik,87,CAM,775000.0,,,,https://www.futwiz.com/fc26/player/marek-hamsik/19620
+2025-10-04T00:39:34Z,Berbatov,87,ST,71500.0,,,,https://www.futwiz.com/fc26/player/dimitar-berbatov/19619
+2025-10-04T00:39:34Z,Brolin,87,ST,355000.0,,,,https://www.futwiz.com/fc26/player/tomas-brolin/19617
+2025-10-04T00:39:34Z,Rijkaard,87,CDM,0.0,,,,https://www.futwiz.com/fc26/player/frank-rijkaard/19615
+2025-10-04T00:39:34Z,Rui Costa,87,CAM,299000.0,,,,https://www.futwiz.com/fc26/player/rui-costa/19611
+2025-10-04T00:39:34Z,Kvaratskhelia,87,LW,101000.0,,,,https://www.futwiz.com/fc26/player/khvicha-kvaratskhelia/128
+2025-10-04T00:39:34Z,Guirassy,87,ST,9000.0,,,,https://www.futwiz.com/fc26/player/serhou-guirassy/126
+2025-10-04T00:39:34Z,De Bruyne,87,CM,8900.0,,,,https://www.futwiz.com/fc26/player/kevin-de-bruyne/125
+2025-10-04T00:39:34Z,de Jong,87,CM,207000.0,,,,https://www.futwiz.com/fc26/player/frenkie-de-jong/124
+2025-10-04T00:39:34Z,Caicedo,87,CDM,35000.0,,,,https://www.futwiz.com/fc26/player/moises-caicedo/123
+2025-10-04T00:39:34Z,Rice,87,CDM,9600.0,,,,https://www.futwiz.com/fc26/player/declan-rice/122
+2025-10-04T00:39:34Z,Marquinhos,87,CB,59500.0,,,,https://www.futwiz.com/fc26/player/marquinhos/121
+2025-10-04T00:39:34Z,Sommer,87,GK,8600.0,,,,https://www.futwiz.com/fc26/player/yann-sommer/120
+2025-10-04T00:39:34Z,Kounde,87,RB,143000.0,,,,https://www.futwiz.com/fc26/player/jules-kounde/119
+2025-10-04T00:39:34Z,Bruno Fernandes,87,CAM,8900.0,,,,https://www.futwiz.com/fc26/player/bruno-fernandes/118
+2025-10-04T00:39:34Z,Saliba,87,CB,130000.0,,,,https://www.futwiz.com/fc26/player/william-saliba/117
+2025-10-04T00:39:34Z,Alvarez,87,ST,69000.0,,,,https://www.futwiz.com/fc26/player/julian-alvarez/116
+2025-10-04T00:39:34Z,Tah,87,CB,8700.0,,,,https://www.futwiz.com/fc26/player/jonathan-tah/115
+2025-10-04T00:39:34Z,Mac Allister,87,CM,8600.0,,,,https://www.futwiz.com/fc26/player/alexis-mac-allister/114
+2025-10-04T00:39:34Z,Maignan,87,GK,18750.0,,,,https://www.futwiz.com/fc26/player/mike-maignan/113
+2025-10-04T00:39:34Z,Bright,87,CB,10500.0,,,,https://www.futwiz.com/fc26/player/millie-bright/112
+2025-10-04T00:39:34Z,David Raya,87,GK,28000.0,,,,https://www.futwiz.com/fc26/player/david-raya/109
+2025-10-04T00:39:34Z,Isak,88,ST,90500.0,,,,https://www.futwiz.com/fc26/player/alexander-isak/53
+2025-10-04T00:39:34Z,Martinez,88,ST,12500.0,,,,https://www.futwiz.com/fc26/player/lautaro-martinez/52
+2025-10-04T00:39:34Z,Lewandowski,88,ST,11500.0,,,,https://www.futwiz.com/fc26/player/robert-lewandowski/51
+2025-10-04T00:39:34Z,Cha,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/cha-bum-kun/15
+2025-10-04T00:39:34Z,Alexander-Arnold,87,RB,259000.0,,,,https://www.futwiz.com/fc26/player/trent-alexander-arnold/20385
+2025-10-04T00:39:34Z,Little,87,CDM,43250.0,,,,https://www.futwiz.com/fc26/player/kim-little/20384
+2025-10-04T00:39:34Z,Claudia Pina,87,LW,1075000.0,,,,https://www.futwiz.com/fc26/player/claudia-pina/20383
+2025-10-04T00:39:34Z,Nico Williams,87,LM,1079000.0,,,,https://www.futwiz.com/fc26/player/nico-williams/20323
+2025-10-04T00:39:34Z,Reijnders,87,CM,720000.0,,,,https://www.futwiz.com/fc26/player/tijjani-reijnders/20322
+2025-10-04T00:39:34Z,Campos,87,GK,30000.0,,,,https://www.futwiz.com/fc26/player/jorge-campos/20261
+2025-10-04T00:39:34Z,McManaman,87,RM,140000.0,,,,https://www.futwiz.com/fc26/player/steve-mcmanaman/19646
+2025-10-04T00:39:34Z,Fernando Torres,87,ST,0.0,,,,https://www.futwiz.com/fc26/player/fernando-torres/19643
+2025-10-04T00:39:34Z,Makelele,87,CDM,0.0,,,,https://www.futwiz.com/fc26/player/claude-makelele/19642
+2025-10-04T00:39:34Z,Zola,87,CAM,0.0,,,,https://www.futwiz.com/fc26/player/gianfranco-zola/19641
+2025-10-04T00:39:34Z,Vidic,87,CB,0.0,,,,https://www.futwiz.com/fc26/player/nemanja-vidic/19640
+2025-10-04T00:39:34Z,Pires,87,LM,0.0,,,,https://www.futwiz.com/fc26/player/robert-pires/19639
+2025-10-04T00:39:34Z,Cordoba,87,CB,579000.0,,,,https://www.futwiz.com/fc26/player/ivan-cordoba/19638
+2025-10-04T00:39:34Z,Georges,87,CB,250000.0,,,,https://www.futwiz.com/fc26/player/laura-georges/19636
+2025-10-04T00:39:34Z,Cole,87,RW,322000.0,,,,https://www.futwiz.com/fc26/player/joe-cole/19634
+2025-10-04T00:39:34Z,Xabi Alonso,87,CDM,0.0,,,,https://www.futwiz.com/fc26/player/xabi-alonso/19633
+2025-10-04T00:39:34Z,Lampard,87,CM,0.0,,,,https://www.futwiz.com/fc26/player/frank-lampard/19632
+2025-10-04T00:39:34Z,Kluivert,87,ST,0.0,,,,https://www.futwiz.com/fc26/player/patrick-kluivert/19630
+2025-10-04T00:39:34Z,Rush,87,ST,0.0,,,,https://www.futwiz.com/fc26/player/ian-rush/19628
+2025-10-04T00:39:34Z,Toure,87,CDM,1990000.0,,,,https://www.futwiz.com/fc26/player/yaya-toure/19627
+2025-10-04T00:39:34Z,Wright,87,ST,0.0,,,,https://www.futwiz.com/fc26/player/ian-wright/19624
+2025-10-04T00:39:34Z,Vieira,88,CM,0.0,,,,https://www.futwiz.com/fc26/player/patrick-vieira/19582
+2025-10-04T00:39:34Z,Forlan,88,ST,380000.0,,,,https://www.futwiz.com/fc26/player/diego-forlan/19581
+2025-10-04T00:39:34Z,Isak,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/alexander-isak/19580
+2025-10-04T00:39:34Z,Francescoli,88,CAM,0.0,,,,https://www.futwiz.com/fc26/player/enzo-francescoli/19579
+2025-10-04T00:39:34Z,Litmanen,88,CAM,0.0,,,,https://www.futwiz.com/fc26/player/jari-litmanen/19578
+2025-10-04T00:39:34Z,Mascherano,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/javier-mascherano/19576
+2025-10-04T00:39:34Z,Shevchenko,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/andriy-shevchenko/19575
+2025-10-04T00:39:34Z,Ferdinand,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/rio-ferdinand/19574
+2025-10-04T00:39:34Z,Laudrup,88,CAM,0.0,,,,https://www.futwiz.com/fc26/player/michael-laudrup/19573
+2025-10-04T00:39:34Z,Hazard,88,LM,0.0,,,,https://www.futwiz.com/fc26/player/eden-hazard/19572
+2025-10-04T00:39:34Z,Riquelme,88,CAM,0.0,,,,https://www.futwiz.com/fc26/player/juan-roman-riquelme/19571
+2025-10-04T00:39:34Z,Fernando Hierro,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/fernando-hierro/19570
+2025-10-04T00:39:34Z,Gerrard,88,CM,0.0,,,,https://www.futwiz.com/fc26/player/steven-gerrard/19568
+2025-10-04T00:39:34Z,Desailly,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/marcel-desailly/19566
+2025-10-04T00:39:34Z,Milito,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/diego-milito/19565
+2025-10-04T00:39:34Z,Nedved,88,LM,0.0,,,,https://www.futwiz.com/fc26/player/pavel-nedved/19563
+2025-10-04T00:39:34Z,Owen,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/michael-owen/19560
+2025-10-04T00:39:34Z,Oblak,88,GK,11750.0,,,,https://www.futwiz.com/fc26/player/jan-oblak/130
+2025-10-04T00:39:34Z,Irene Paredes,88,CB,12000.0,,,,https://www.futwiz.com/fc26/player/irene-paredes/72
+2025-10-04T00:39:34Z,Debinha,88,CAM,27000.0,,,,https://www.futwiz.com/fc26/player/debinha/71
+2025-10-04T00:39:34Z,Pajor,88,ST,11750.0,,,,https://www.futwiz.com/fc26/player/ewa-pajor/69
+2025-10-04T00:39:34Z,Wilson,88,ST,330000.0,,,,https://www.futwiz.com/fc26/player/sophia-wilson/67
+2025-10-04T00:39:34Z,Diani,88,RW,144000.0,,,,https://www.futwiz.com/fc26/player/kadidiatou-diani/66
+2025-10-04T00:39:34Z,Katoto,88,ST,9900.0,,,,https://www.futwiz.com/fc26/player/marie-katoto/65
+2025-10-04T00:39:34Z,Musiala,88,CAM,104000.0,,,,https://www.futwiz.com/fc26/player/jamal-musiala/54
+2025-10-04T00:39:34Z,Gerrard,89,CM,0.0,,,,https://www.futwiz.com/fc26/player/steven-gerrard/25
+2025-10-04T00:39:34Z,Bright,88,CB,120000.0,,,,https://www.futwiz.com/fc26/player/millie-bright/20382
+2025-10-04T00:39:34Z,Cristiano Ronaldo,88,ST,2000000.0,,,,https://www.futwiz.com/fc26/player/cristiano-ronaldo/20381
+2025-10-04T00:39:34Z,Bruno Fernandes,88,CAM,430000.0,,,,https://www.futwiz.com/fc26/player/bruno-fernandes/20321
+2025-10-04T00:39:34Z,Klose,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/miroslav-klose/19607
+2025-10-04T00:39:34Z,Gomez,88,ST,158000.0,,,,https://www.futwiz.com/fc26/player/mario-gomez/19606
+2025-10-04T00:39:34Z,Tevez,88,ST,539000.0,,,,https://www.futwiz.com/fc26/player/carlos-tevez/19605
+2025-10-04T00:39:34Z,Beckham,88,RM,0.0,,,,https://www.futwiz.com/fc26/player/david-beckham/19604
+2025-10-04T00:39:34Z,Okocha,88,CAM,675000.0,,,,https://www.futwiz.com/fc26/player/jay-jay-okocha/19601
+2025-10-04T00:39:34Z,Rooney,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/wayne-rooney/19600
+2025-10-04T00:39:34Z,Sneijder,88,CAM,579000.0,,,,https://www.futwiz.com/fc26/player/wesley-sneijder/19599
+2025-10-04T00:39:34Z,Marquez,88,CB,136000.0,,,,https://www.futwiz.com/fc26/player/rafael-marquez/19598
+2025-10-04T00:39:34Z,Kompany,88,CB,575000.0,,,,https://www.futwiz.com/fc26/player/vincent-kompany/19597
+2025-10-04T00:39:34Z,Koeman,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/ronald-koeman/19596
+2025-10-04T00:39:34Z,Scholes,88,CM,0.0,,,,https://www.futwiz.com/fc26/player/paul-scholes/19595
+2025-10-04T00:39:34Z,Ricardo Carvalho,88,CB,240000.0,,,,https://www.futwiz.com/fc26/player/ricardo-carvalho/19594
+2025-10-04T00:39:34Z,Maicon,88,RB,490000.0,,,,https://www.futwiz.com/fc26/player/maicon/19592
+2025-10-04T00:39:34Z,Thuram,88,RB,0.0,,,,https://www.futwiz.com/fc26/player/lilian-thuram/19590
+2025-10-04T00:39:34Z,Di Natale,88,ST,1920000.0,,,,https://www.futwiz.com/fc26/player/antonio-di-natale/19589
+2025-10-04T00:39:34Z,Kesler,88,CM,137000.0,,,,https://www.futwiz.com/fc26/player/nadine-kesler/19588
+2025-10-04T00:39:34Z,Schweinsteiger,88,CM,0.0,,,,https://www.futwiz.com/fc26/player/bastian-schweinsteiger/19587
+2025-10-04T00:39:34Z,Blanc,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/laurent-blanc/19586
+2025-10-04T00:39:34Z,Ribery,88,LM,0.0,,,,https://www.futwiz.com/fc26/player/franck-ribery/19584
+2025-10-04T00:39:34Z,van der Sar,88,GK,0.0,,,,https://www.futwiz.com/fc26/player/edwin-van-der-sar/19583
+2025-10-04T00:39:34Z,Drogba,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/didier-drogba/19535
+2025-10-04T00:39:34Z,Papin,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/jean-pierre-papin/19533
+2025-10-04T00:39:34Z,Schmeichel,89,GK,0.0,,,,https://www.futwiz.com/fc26/player/peter-schmeichel/19532
+2025-10-04T00:39:34Z,Nesta,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/alessandro-nesta/19531
+2025-10-04T00:39:34Z,Eto'o,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/samuel-etoo/19529
+2025-10-04T00:39:34Z,Voller,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/rudi-voller/19527
+2025-10-04T00:39:34Z,Kaka,89,CAM,0.0,,,,https://www.futwiz.com/fc26/player/kaka/19526
+2025-10-04T00:39:34Z,Lineker,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/gary-lineker/19525
+2025-10-04T00:39:34Z,Luis Figo,89,RW,0.0,,,,https://www.futwiz.com/fc26/player/luis-figo/19524
+2025-10-04T00:39:34Z,Shearer,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/alan-shearer/19523
+2025-10-04T00:39:34Z,Shaw,89,ST,20000.0,,,,https://www.futwiz.com/fc26/player/khadija-shaw/63
+2025-10-04T00:39:34Z,Patri Guijarro,89,CDM,138000.0,,,,https://www.futwiz.com/fc26/player/patri-guijarro/62
+2025-10-04T00:39:34Z,Mariona,89,CM,60000.0,,,,https://www.futwiz.com/fc26/player/mariona/61
+2025-10-04T00:39:34Z,Russo,89,ST,19750.0,,,,https://www.futwiz.com/fc26/player/alessia-russo/60
+2025-10-04T00:39:34Z,Wirtz,89,CAM,290000.0,,,,https://www.futwiz.com/fc26/player/florian-wirtz/48
+2025-10-04T00:39:34Z,Hakimi,89,RB,200000.0,,,,https://www.futwiz.com/fc26/player/achraf-hakimi/47
+2025-10-04T00:39:34Z,Valverde,89,CM,425000.0,,,,https://www.futwiz.com/fc26/player/federico-valverde/44
+2025-10-04T00:39:34Z,Kane,89,ST,20000.0,,,,https://www.futwiz.com/fc26/player/harry-kane/43
+2025-10-04T00:39:34Z,Alisson,89,GK,64000.0,,,,https://www.futwiz.com/fc26/player/alisson/40
+2025-10-04T00:39:34Z,Kimmich,89,CDM,31500.0,,,,https://www.futwiz.com/fc26/player/joshua-kimmich/38
+2025-10-04T00:39:34Z,Pedri,89,CM,124000.0,,,,https://www.futwiz.com/fc26/player/pedri/36
+2025-10-04T00:39:34Z,Donnarumma,89,GK,73500.0,,,,https://www.futwiz.com/fc26/player/gianluigi-donnarumma/34
+2025-10-04T00:39:34Z,Vitinha,89,CM,79000.0,,,,https://www.futwiz.com/fc26/player/vitinha/32
+2025-10-04T00:39:34Z,van Dijk,90,CB,156000.0,,,,https://www.futwiz.com/fc26/player/virgil-van-dijk/39
+2025-10-04T00:39:34Z,Rodri,90,CDM,30500.0,,,,https://www.futwiz.com/fc26/player/rodri/37
+2025-10-04T00:39:34Z,Seger,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/caroline-seger/20
+2025-10-04T00:39:34Z,Kroos,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/toni-kroos/18
+2025-10-04T00:39:34Z,Wirtz,89,CAM,1210000.0,,,,https://www.futwiz.com/fc26/player/florian-wirtz/20380
+2025-10-04T00:39:34Z,Valverde,89,CM,1270000.0,,,,https://www.futwiz.com/fc26/player/federico-valverde/20377
+2025-10-04T00:39:34Z,Debinha,89,CAM,238000.0,,,,https://www.futwiz.com/fc26/player/debinha/20296
+2025-10-04T00:39:34Z,Totti,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/francesco-totti/20253
+2025-10-04T00:39:34Z,Emilio Butragueno,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/emilio-butragueno/19559
+2025-10-04T00:39:34Z,Sasic,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/celia-sasic/19558
+2025-10-04T00:39:34Z,Carles Puyol,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/carles-puyol/19557
+2025-10-04T00:39:34Z,Kohler,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/jurgen-kohler/19556
+2025-10-04T00:39:34Z,Ginola,89,LM,0.0,,,,https://www.futwiz.com/fc26/player/david-ginola/19554
+2025-10-04T00:39:34Z,Cannavaro,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/fabio-cannavaro/19553
+2025-10-04T00:39:34Z,Fernando Morientes,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/fernando-morientes/19552
+2025-10-04T00:39:34Z,Dalglish,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/kenny-dalglish/19551
+2025-10-04T00:39:34Z,Jairzinho,89,RW,0.0,,,,https://www.futwiz.com/fc26/player/jairzinho/19550
+2025-10-04T00:39:34Z,Lucio,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/lucio/19549
+2025-10-04T00:39:34Z,Vialli,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/gianluca-vialli/19548
+2025-10-04T00:39:34Z,Jones,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/steffi-jones/19547
+2025-10-04T00:39:34Z,Socrates,89,CAM,0.0,,,,https://www.futwiz.com/fc26/player/socrates/19546
+2025-10-04T00:39:34Z,Zanetti,89,RB,0.0,,,,https://www.futwiz.com/fc26/player/javier-zanetti/19544
+2025-10-04T00:39:34Z,Lahm,89,RB,0.0,,,,https://www.futwiz.com/fc26/player/philipp-lahm/19540
+2025-10-04T00:39:34Z,Cantona,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/eric-cantona/19538
+2025-10-04T00:39:34Z,Donnarumma,89,GK,300000.0,,,,https://www.futwiz.com/fc26/player/gianluigi-donnarumma/19536
+2025-10-04T00:39:34Z,Zico,91,CAM,0.0,,,,https://www.futwiz.com/fc26/player/zico/19498
+2025-10-04T00:39:34Z,Kahn,91,GK,0.0,,,,https://www.futwiz.com/fc26/player/oliver-kahn/19497
+2025-10-04T00:39:34Z,Xavi,91,CM,0.0,,,,https://www.futwiz.com/fc26/player/xavi/19496
+2025-10-04T00:39:34Z,Cafu,91,RB,0.0,,,,https://www.futwiz.com/fc26/player/cafu/19495
+2025-10-04T00:39:34Z,Sawa,91,CM,0.0,,,,https://www.futwiz.com/fc26/player/homare-sawa/19494
+2025-10-04T00:39:34Z,Baresi,91,CB,0.0,,,,https://www.futwiz.com/fc26/player/franco-baresi/19493
+2025-10-04T00:39:34Z,Aitana Bonmati,91,CM,668000.0,,,,https://www.futwiz.com/fc26/player/aitana-bonmati/58
+2025-10-04T00:39:34Z,Mbappe,91,ST,3290000.0,,,,https://www.futwiz.com/fc26/player/kylian-mbappe/33
+2025-10-04T00:39:34Z,Henry,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/thierry-henry/30
+2025-10-04T00:39:34Z,Kane,90,ST,183000.0,,,,https://www.futwiz.com/fc26/player/harry-kane/20266
+2025-10-04T00:39:34Z,Kroos,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/toni-kroos/20258
+2025-10-04T00:39:34Z,Seger,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/caroline-seger/20254
+2025-10-04T00:39:34Z,Foudy,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/julie-foudy/19522
+2025-10-04T00:39:34Z,Del Piero,90,CAM,0.0,,,,https://www.futwiz.com/fc26/player/alessandro-del-piero/19521
+2025-10-04T00:39:34Z,Schelin,90,ST,0.0,,,,https://www.futwiz.com/fc26/player/lotta-schelin/19520
+2025-10-04T00:39:34Z,Gullit,90,CAM,0.0,,,,https://www.futwiz.com/fc26/player/ruud-gullit/19519
+2025-10-04T00:39:34Z,Abily,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/camille-abily/19517
+2025-10-04T00:39:34Z,Moore,90,CB,0.0,,,,https://www.futwiz.com/fc26/player/bobby-moore/19516
+2025-10-04T00:39:34Z,Pirlo,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/andrea-pirlo/19515
+2025-10-04T00:39:34Z,Best,90,RW,0.0,,,,https://www.futwiz.com/fc26/player/george-best/19513
+2025-10-04T00:39:34Z,Miyama,90,LM,0.0,,,,https://www.futwiz.com/fc26/player/aya-miyama/19511
+2025-10-04T00:39:34Z,Matthaus,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/lothar-matthaus/19510
+2025-10-04T00:39:34Z,Bergkamp,90,ST,0.0,,,,https://www.futwiz.com/fc26/player/dennis-bergkamp/19508
+2025-10-04T00:39:34Z,Hansen,90,RW,665000.0,,,,https://www.futwiz.com/fc26/player/caroline-graham-hansen/59
+2025-10-04T00:39:34Z,Bellingham,90,CAM,133000.0,,,,https://www.futwiz.com/fc26/player/jude-bellingham/41
+2025-10-04T00:39:34Z,Pele,95,CAM,0.0,,,,https://www.futwiz.com/fc26/player/pele/20259
+2025-10-04T00:39:34Z,Ronaldo,94,ST,0.0,,,,https://www.futwiz.com/fc26/player/ronaldo/20264
+2025-10-04T00:39:34Z,Zidane,94,CAM,0.0,,,,https://www.futwiz.com/fc26/player/zinedine-zidane/20263
+2025-10-04T00:39:34Z,Ronaldinho,93,LW,0.0,,,,https://www.futwiz.com/fc26/player/ronaldinho/20260
+2025-10-04T00:39:34Z,Cruyff,93,CAM,0.0,,,,https://www.futwiz.com/fc26/player/johan-cruyff/19482
+2025-10-04T00:39:34Z,Hamm,93,ST,0.0,,,,https://www.futwiz.com/fc26/player/mia-hamm/19481
+2025-10-04T00:39:34Z,Iniesta,92,CM,0.0,,,,https://www.futwiz.com/fc26/player/andres-iniesta/20255
+2025-10-04T00:39:34Z,Angerer,92,GK,0.0,,,,https://www.futwiz.com/fc26/player/nadine-angerer/19491
+2025-10-04T00:39:34Z,Beckenbauer,92,CB,0.0,,,,https://www.futwiz.com/fc26/player/franz-beckenbauer/19489
+2025-10-04T00:39:34Z,Muller,92,ST,0.0,,,,https://www.futwiz.com/fc26/player/gerd-muller/19487
+2025-10-04T00:39:34Z,Garrincha,92,RW,0.0,,,,https://www.futwiz.com/fc26/player/garrincha/19486
+2025-10-04T00:39:34Z,Yashin,92,GK,0.0,,,,https://www.futwiz.com/fc26/player/lev-yashin/19485
+2025-10-04T00:39:34Z,Maldini,92,CB,0.0,,,,https://www.futwiz.com/fc26/player/paolo-maldini/19484
+2025-10-04T00:39:34Z,Prinz,92,ST,0.0,,,,https://www.futwiz.com/fc26/player/birgit-prinz/19483
+2025-10-04T00:39:34Z,Ronaldo,92,ST,0.0,,,,https://www.futwiz.com/fc26/player/ronaldo/26
+2025-10-04T00:39:34Z,Ibrahimovic,92,ST,0.0,,,,https://www.futwiz.com/fc26/player/zlatan-ibrahimovic/23
+2025-10-04T00:39:34Z,Iniesta,92,CM,0.0,,,,https://www.futwiz.com/fc26/player/andres-iniesta/21
+2025-10-04T00:39:34Z,Mbappe,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/kylian-mbappe/20379
+2025-10-04T00:39:34Z,Henry,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/thierry-henry/19506
+2025-10-04T00:39:34Z,Baggio,91,CAM,0.0,,,,https://www.futwiz.com/fc26/player/roberto-baggio/19504
+2025-10-04T00:39:34Z,Eusebio,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/eusebio/19503
+2025-10-04T00:39:34Z,van Basten,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/marco-van-basten/19502
+2025-10-04T00:39:34Z,Buffon,91,GK,0.0,,,,https://www.futwiz.com/fc26/player/gianluigi-buffon/19501
+2025-10-04T00:39:34Z,Carlos Alberto,91,RB,0.0,,,,https://www.futwiz.com/fc26/player/carlos-alberto/19500
+2025-10-04T00:39:34Z,Ibrahimovic,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/zlatan-ibrahimovic/19499
+2025-10-04T00:43:23Z,Claudia Pina,86,LW,62500.0,,,,https://www.futwiz.com/fc26/player/claudia-pina/99
+2025-10-04T00:43:23Z,Oliver Kahn,86,GK,0.0,,,,https://www.futwiz.com/fc26/player/oliver-kahn/5
+2025-10-04T00:43:23Z,Kroos,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/toni-kroos/6
+2025-10-04T00:43:23Z,Seger,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/caroline-seger/8
+2025-10-04T00:43:23Z,Iniesta,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/andres-iniesta/9
+2025-10-04T00:43:23Z,Ibrahimovic,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/zlatan-ibrahimovic/11
+2025-10-04T00:43:23Z,Ronaldo,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/ronaldo/27
+2025-10-04T00:43:23Z,Henry,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/thierry-henry/29
+2025-10-04T00:43:23Z,Reijnders,86,CM,155000.0,,,,https://www.futwiz.com/fc26/player/tijjani-reijnders/83
+2025-10-04T00:43:23Z,Harder,86,CAM,5900.0,,,,https://www.futwiz.com/fc26/player/pernille-harder/84
+2025-10-04T00:43:23Z,Dumornay,86,ST,49000.0,,,,https://www.futwiz.com/fc26/player/melchie-dumornay/85
+2025-10-04T00:43:23Z,Nico Williams,86,LM,180000.0,,,,https://www.futwiz.com/fc26/player/nico-williams/86
+2025-10-04T00:43:23Z,Tonali,86,CDM,7700.0,,,,https://www.futwiz.com/fc26/player/sandro-tonali/87
+2025-10-04T00:43:23Z,Schuller,86,ST,6100.0,,,,https://www.futwiz.com/fc26/player/lea-schuller/89
+2025-10-04T00:43:23Z,Calhanoglu,86,CDM,6200.0,,,,https://www.futwiz.com/fc26/player/hakan-calhanoglu/90
+2025-10-04T00:43:23Z,Konate,86,CB,26500.0,,,,https://www.futwiz.com/fc26/player/ibrahima-konate/91
+2025-10-04T00:43:23Z,Ona Batlle,86,RB,6000.0,,,,https://www.futwiz.com/fc26/player/ona-batlle/92
+2025-10-04T00:43:23Z,Buhl,86,LM,5900.0,,,,https://www.futwiz.com/fc26/player/klara-buhl/94
+2025-10-04T00:43:23Z,Bruno Guimaraes,86,CM,6100.0,,,,https://www.futwiz.com/fc26/player/bruno-guimaraes/95
+2025-10-04T00:43:23Z,Ruben Dias,86,CB,6100.0,,,,https://www.futwiz.com/fc26/player/ruben-dias/97
+2025-10-04T00:43:23Z,Alexander-Arnold,86,RB,7500.0,,,,https://www.futwiz.com/fc26/player/trent-alexander-arnold/98
+2025-10-04T00:43:23Z,Geyoro,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/grace-geyoro/101
+2025-10-04T00:43:23Z,Rudiger,86,CB,49000.0,,,,https://www.futwiz.com/fc26/player/antonio-rudiger/102
+2025-10-04T00:43:23Z,Kobel,86,GK,5900.0,,,,https://www.futwiz.com/fc26/player/gregor-kobel/18095
+2025-10-04T00:43:23Z,ter Stegen,86,GK,7000.0,,,,https://www.futwiz.com/fc26/player/marc-andre-ter-stegen/18096
+2025-10-04T00:43:23Z,King,86,CB,294000.0,,,,https://www.futwiz.com/fc26/player/ledley-king/19650
+2025-10-04T00:43:23Z,Kanu,86,ST,27000.0,,,,https://www.futwiz.com/fc26/player/nwankwo-kanu/19693
+2025-10-04T00:43:23Z,Essien,86,CDM,0.0,,,,https://www.futwiz.com/fc26/player/michael-essien/19691
+2025-10-04T00:43:23Z,Donovan,86,CAM,128000.0,,,,https://www.futwiz.com/fc26/player/landon-donovan/19690
+2025-10-04T00:43:23Z,Kuyt,86,CAM,68000.0,,,,https://www.futwiz.com/fc26/player/dirk-kuyt/19689
+2025-10-04T00:43:23Z,Geyoro,86,CM,20750.0,,,,https://www.futwiz.com/fc26/player/grace-geyoro/19685
+2025-10-04T00:43:23Z,Rogers,86,CAM,0.0,,,,https://www.futwiz.com/fc26/player/morgan-rogers/19684
+2025-10-04T00:43:23Z,Tomori,86,CB,0.0,,,,https://www.futwiz.com/fc26/player/fikayo-tomori/19683
+2025-10-04T00:43:23Z,Campbell,86,CB,0.0,,,,https://www.futwiz.com/fc26/player/sol-campbell/19682
+2025-10-04T00:43:23Z,Al Jaber,86,ST,69500.0,,,,https://www.futwiz.com/fc26/player/sami-al-jaber/19681
+2025-10-04T00:43:23Z,Larsson,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/henrik-larsson/19680
+2025-10-04T00:43:23Z,Crespo,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/hernan-crespo/19677
+2025-10-04T00:43:23Z,Hernandez,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/luis-hernandez/19671
+2025-10-04T00:43:23Z,Park Ji Sung,86,LM,130000.0,,,,https://www.futwiz.com/fc26/player/park-ji-sung/19670
+2025-10-04T00:43:23Z,Keane,86,ST,325000.0,,,,https://www.futwiz.com/fc26/player/robbie-keane/19669
+2025-10-04T00:43:23Z,Williams,86,CM,93000.0,,,,https://www.futwiz.com/fc26/player/fara-williams/19668
+2025-10-04T00:43:23Z,Cha Bum Kun,86,ST,0.0,,,,https://www.futwiz.com/fc26/player/cha-bum-kun/19664
+2025-10-04T00:43:23Z,Keane,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/roy-keane/19663
+2025-10-04T00:43:23Z,Ramires,86,CDM,1780000.0,,,,https://www.futwiz.com/fc26/player/ramires/19661
+2025-10-04T00:43:23Z,Gattuso,86,CDM,0.0,,,,https://www.futwiz.com/fc26/player/gennaro-gattuso/19658
+2025-10-04T00:43:23Z,Ljungberg,86,LM,110000.0,,,,https://www.futwiz.com/fc26/player/freddie-ljungberg/19657
+2025-10-04T00:43:23Z,Veron,86,CM,0.0,,,,https://www.futwiz.com/fc26/player/juan-sebastian-veron/19655
+2025-10-04T00:43:23Z,Rosicky,86,CAM,107000.0,,,,https://www.futwiz.com/fc26/player/tomas-rosicky/19654
+2025-10-04T00:43:23Z,Zambrotta,86,RB,0.0,,,,https://www.futwiz.com/fc26/player/gianluca-zambrotta/19653
+2025-10-04T00:43:23Z,Govou,86,ST,420000.0,,,,https://www.futwiz.com/fc26/player/sidney-govou/19652
+2025-10-04T00:43:23Z,Giuly,86,RM,106000.0,,,,https://www.futwiz.com/fc26/player/ludovic-giuly/19651
+2025-10-04T00:43:23Z,Gyokeres,87,ST,135000.0,,,,https://www.futwiz.com/fc26/player/viktor-gyokeres/108
+2025-10-04T00:43:23Z,Kerr,87,ST,8000.0,,,,https://www.futwiz.com/fc26/player/sam-kerr/107
+2025-10-04T00:43:23Z,Barella,87,CM,20000.0,,,,https://www.futwiz.com/fc26/player/nicolo-barella/106
+2025-10-04T00:43:23Z,Osimhen,87,ST,9100.0,,,,https://www.futwiz.com/fc26/player/victor-osimhen/105
+2025-10-04T00:43:23Z,Hegerberg,87,ST,8900.0,,,,https://www.futwiz.com/fc26/player/ada-hegerberg/81
+2025-10-04T00:43:23Z,Swanson,87,LM,9000.0,,,,https://www.futwiz.com/fc26/player/mallory-swanson/80
+2025-10-04T00:43:23Z,Mead,87,RM,8900.0,,,,https://www.futwiz.com/fc26/player/beth-mead/79
+2025-10-04T00:43:23Z,Williamson,87,CB,8900.0,,,,https://www.futwiz.com/fc26/player/leah-williamson/78
+2025-10-04T00:43:23Z,Bronze,87,RB,8800.0,,,,https://www.futwiz.com/fc26/player/lucy-bronze/75
+2025-10-04T00:43:23Z,Heaps,87,CAM,8900.0,,,,https://www.futwiz.com/fc26/player/lindsey-heaps/74
+2025-10-04T00:43:23Z,Kelly,87,RM,8300.0,,,,https://www.futwiz.com/fc26/player/chloe-kelly/73
+2025-10-04T00:43:23Z,Orban,86,CB,16750.0,,,,https://www.futwiz.com/fc26/player/willi-orban/20401
+2025-10-04T00:43:23Z,Joao Neves,86,CM,299000.0,,,,https://www.futwiz.com/fc26/player/joao-neves/20387
+2025-10-04T00:43:23Z,Stanway,86,CDM,18250.0,,,,https://www.futwiz.com/fc26/player/georgia-stanway/20354
+2025-10-04T00:43:23Z,Diaz,86,LM,310000.0,,,,https://www.futwiz.com/fc26/player/luis-diaz/20327
+2025-10-04T00:43:23Z,Zubimendi,86,CDM,,,,,https://www.futwiz.com/fc26/player/zubimendi/20325
+2025-10-04T00:43:23Z,Renard,86,CB,144000.0,,,,https://www.futwiz.com/fc26/player/wendie-renard/20324
+2025-10-04T00:43:23Z,Eder Militao,86,CB,389000.0,,,,https://www.futwiz.com/fc26/player/eder-militao/20300
+2025-10-04T00:43:23Z,Gravenberch,86,CDM,249000.0,,,,https://www.futwiz.com/fc26/player/ryan-gravenberch/20299
+2025-10-04T00:43:23Z,Pulisic,86,ST,195000.0,,,,https://www.futwiz.com/fc26/player/christian-pulisic/20298
+2025-10-04T00:43:23Z,Pavard,86,CB,67500.0,,,,https://www.futwiz.com/fc26/player/benjamin-pavard/20270
+2025-10-04T00:43:23Z,Marcos Llorente,86,RB,399000.0,,,,https://www.futwiz.com/fc26/player/marcos-llorente/20269
+2025-10-04T00:43:23Z,Oberdorf,86,CDM,31000.0,,,,https://www.futwiz.com/fc26/player/lena-oberdorf/20268
+2025-10-04T00:43:23Z,Carragher,86,CB,75000.0,,,,https://www.futwiz.com/fc26/player/jamie-carragher/19696
+2025-10-04T00:43:23Z,Solskjaer,86,ST,104000.0,,,,https://www.futwiz.com/fc26/player/ole-gunnar-solskjaer/19694
+2025-10-04T00:43:23Z,Marchisio,87,CM,579000.0,,,,https://www.futwiz.com/fc26/player/claudio-marchisio/19623
+2025-10-04T00:43:23Z,Stam,87,CB,1780000.0,,,,https://www.futwiz.com/fc26/player/jaap-stam/19621
+2025-10-04T00:43:23Z,Hamsik,87,CAM,775000.0,,,,https://www.futwiz.com/fc26/player/marek-hamsik/19620
+2025-10-04T00:43:23Z,Berbatov,87,ST,71500.0,,,,https://www.futwiz.com/fc26/player/dimitar-berbatov/19619
+2025-10-04T00:43:23Z,Brolin,87,ST,355000.0,,,,https://www.futwiz.com/fc26/player/tomas-brolin/19617
+2025-10-04T00:43:23Z,Rijkaard,87,CDM,0.0,,,,https://www.futwiz.com/fc26/player/frank-rijkaard/19615
+2025-10-04T00:43:23Z,Rui Costa,87,CAM,299000.0,,,,https://www.futwiz.com/fc26/player/rui-costa/19611
+2025-10-04T00:43:23Z,Kvaratskhelia,87,LW,99500.0,,,,https://www.futwiz.com/fc26/player/khvicha-kvaratskhelia/128
+2025-10-04T00:43:23Z,Guirassy,87,ST,8900.0,,,,https://www.futwiz.com/fc26/player/serhou-guirassy/126
+2025-10-04T00:43:23Z,De Bruyne,87,CM,8700.0,,,,https://www.futwiz.com/fc26/player/kevin-de-bruyne/125
+2025-10-04T00:43:23Z,de Jong,87,CM,207000.0,,,,https://www.futwiz.com/fc26/player/frenkie-de-jong/124
+2025-10-04T00:43:23Z,Rice,87,CDM,9200.0,,,,https://www.futwiz.com/fc26/player/declan-rice/122
+2025-10-04T00:43:23Z,Marquinhos,87,CB,61000.0,,,,https://www.futwiz.com/fc26/player/marquinhos/121
+2025-10-04T00:43:23Z,Sommer,87,GK,7700.0,,,,https://www.futwiz.com/fc26/player/yann-sommer/120
+2025-10-04T00:43:23Z,Kounde,87,RB,144000.0,,,,https://www.futwiz.com/fc26/player/jules-kounde/119
+2025-10-04T00:43:23Z,Bruno Fernandes,87,CAM,8800.0,,,,https://www.futwiz.com/fc26/player/bruno-fernandes/118
+2025-10-04T00:43:23Z,Saliba,87,CB,128000.0,,,,https://www.futwiz.com/fc26/player/william-saliba/117
+2025-10-04T00:43:23Z,Alvarez,87,ST,69000.0,,,,https://www.futwiz.com/fc26/player/julian-alvarez/116
+2025-10-04T00:43:23Z,Tah,87,CB,8700.0,,,,https://www.futwiz.com/fc26/player/jonathan-tah/115
+2025-10-04T00:43:23Z,Mac Allister,87,CM,8800.0,,,,https://www.futwiz.com/fc26/player/alexis-mac-allister/114
+2025-10-04T00:43:23Z,Maignan,87,GK,19000.0,,,,https://www.futwiz.com/fc26/player/mike-maignan/113
+2025-10-04T00:43:23Z,Bright,87,CB,9900.0,,,,https://www.futwiz.com/fc26/player/millie-bright/112
+2025-10-04T00:43:23Z,David Raya,87,GK,29000.0,,,,https://www.futwiz.com/fc26/player/david-raya/109
+2025-10-04T00:43:23Z,Isak,88,ST,89000.0,,,,https://www.futwiz.com/fc26/player/alexander-isak/53
+2025-10-04T00:43:23Z,Martinez,88,ST,12000.0,,,,https://www.futwiz.com/fc26/player/lautaro-martinez/52
+2025-10-04T00:43:23Z,Lewandowski,88,ST,12000.0,,,,https://www.futwiz.com/fc26/player/robert-lewandowski/51
+2025-10-04T00:43:23Z,Cha,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/cha-bum-kun/15
+2025-10-04T00:43:23Z,Alexander-Arnold,87,RB,259000.0,,,,https://www.futwiz.com/fc26/player/trent-alexander-arnold/20385
+2025-10-04T00:43:23Z,Little,87,CDM,43250.0,,,,https://www.futwiz.com/fc26/player/kim-little/20384
+2025-10-04T00:43:23Z,Claudia Pina,87,LW,1140000.0,,,,https://www.futwiz.com/fc26/player/claudia-pina/20383
+2025-10-04T00:43:23Z,Reijnders,87,CM,720000.0,,,,https://www.futwiz.com/fc26/player/tijjani-reijnders/20322
+2025-10-04T00:43:23Z,Campos,87,GK,30000.0,,,,https://www.futwiz.com/fc26/player/jorge-campos/20261
+2025-10-04T00:43:23Z,McManaman,87,RM,140000.0,,,,https://www.futwiz.com/fc26/player/steve-mcmanaman/19646
+2025-10-04T00:43:23Z,Fernando Torres,87,ST,0.0,,,,https://www.futwiz.com/fc26/player/fernando-torres/19643
+2025-10-04T00:43:23Z,Makelele,87,CDM,0.0,,,,https://www.futwiz.com/fc26/player/claude-makelele/19642
+2025-10-04T00:43:23Z,Zola,87,CAM,0.0,,,,https://www.futwiz.com/fc26/player/gianfranco-zola/19641
+2025-10-04T00:43:23Z,Pires,87,LM,0.0,,,,https://www.futwiz.com/fc26/player/robert-pires/19639
+2025-10-04T00:43:23Z,Cordoba,87,CB,579000.0,,,,https://www.futwiz.com/fc26/player/ivan-cordoba/19638
+2025-10-04T00:43:23Z,Georges,87,CB,250000.0,,,,https://www.futwiz.com/fc26/player/laura-georges/19636
+2025-10-04T00:43:23Z,Cole,87,RW,322000.0,,,,https://www.futwiz.com/fc26/player/joe-cole/19634
+2025-10-04T00:43:23Z,Xabi Alonso,87,CDM,0.0,,,,https://www.futwiz.com/fc26/player/xabi-alonso/19633
+2025-10-04T00:43:23Z,Lampard,87,CM,0.0,,,,https://www.futwiz.com/fc26/player/frank-lampard/19632
+2025-10-04T00:43:23Z,Kluivert,87,ST,0.0,,,,https://www.futwiz.com/fc26/player/patrick-kluivert/19630
+2025-10-04T00:43:23Z,Rush,87,ST,0.0,,,,https://www.futwiz.com/fc26/player/ian-rush/19628
+2025-10-04T00:43:23Z,Toure,87,CDM,1990000.0,,,,https://www.futwiz.com/fc26/player/yaya-toure/19627
+2025-10-04T00:43:23Z,Wright,87,ST,0.0,,,,https://www.futwiz.com/fc26/player/ian-wright/19624
+2025-10-04T00:43:23Z,Vieira,88,CM,0.0,,,,https://www.futwiz.com/fc26/player/patrick-vieira/19582
+2025-10-04T00:43:23Z,Forlan,88,ST,380000.0,,,,https://www.futwiz.com/fc26/player/diego-forlan/19581
+2025-10-04T00:43:23Z,Isak,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/alexander-isak/19580
+2025-10-04T00:43:23Z,Francescoli,88,CAM,0.0,,,,https://www.futwiz.com/fc26/player/enzo-francescoli/19579
+2025-10-04T00:43:23Z,Litmanen,88,CAM,0.0,,,,https://www.futwiz.com/fc26/player/jari-litmanen/19578
+2025-10-04T00:43:23Z,Mascherano,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/javier-mascherano/19576
+2025-10-04T00:43:23Z,Shevchenko,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/andriy-shevchenko/19575
+2025-10-04T00:43:23Z,Ferdinand,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/rio-ferdinand/19574
+2025-10-04T00:43:23Z,Laudrup,88,CAM,0.0,,,,https://www.futwiz.com/fc26/player/michael-laudrup/19573
+2025-10-04T00:43:23Z,Hazard,88,LM,0.0,,,,https://www.futwiz.com/fc26/player/eden-hazard/19572
+2025-10-04T00:43:23Z,Riquelme,88,CAM,0.0,,,,https://www.futwiz.com/fc26/player/juan-roman-riquelme/19571
+2025-10-04T00:43:23Z,Fernando Hierro,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/fernando-hierro/19570
+2025-10-04T00:43:23Z,Gerrard,88,CM,0.0,,,,https://www.futwiz.com/fc26/player/steven-gerrard/19568
+2025-10-04T00:43:23Z,Desailly,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/marcel-desailly/19566
+2025-10-04T00:43:23Z,Milito,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/diego-milito/19565
+2025-10-04T00:43:23Z,Nedved,88,LM,0.0,,,,https://www.futwiz.com/fc26/player/pavel-nedved/19563
+2025-10-04T00:43:23Z,Owen,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/michael-owen/19560
+2025-10-04T00:43:23Z,Oblak,88,GK,11750.0,,,,https://www.futwiz.com/fc26/player/jan-oblak/130
+2025-10-04T00:43:23Z,Irene Paredes,88,CB,12000.0,,,,https://www.futwiz.com/fc26/player/irene-paredes/72
+2025-10-04T00:43:23Z,Debinha,88,CAM,27000.0,,,,https://www.futwiz.com/fc26/player/debinha/71
+2025-10-04T00:43:23Z,Pajor,88,ST,11750.0,,,,https://www.futwiz.com/fc26/player/ewa-pajor/69
+2025-10-04T00:43:23Z,Wilson,88,ST,330000.0,,,,https://www.futwiz.com/fc26/player/sophia-wilson/67
+2025-10-04T00:43:23Z,Diani,88,RW,144000.0,,,,https://www.futwiz.com/fc26/player/kadidiatou-diani/66
+2025-10-04T00:43:23Z,Katoto,88,ST,9900.0,,,,https://www.futwiz.com/fc26/player/marie-katoto/65
+2025-10-04T00:43:23Z,Gerrard,89,CM,0.0,,,,https://www.futwiz.com/fc26/player/steven-gerrard/25
+2025-10-04T00:43:23Z,Totti,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/francesco-totti/19
+2025-10-04T00:43:23Z,Bright,88,CB,120000.0,,,,https://www.futwiz.com/fc26/player/millie-bright/20382
+2025-10-04T00:43:23Z,Cristiano Ronaldo,88,ST,2000000.0,,,,https://www.futwiz.com/fc26/player/cristiano-ronaldo/20381
+2025-10-04T00:43:23Z,Bruno Fernandes,88,CAM,426000.0,,,,https://www.futwiz.com/fc26/player/bruno-fernandes/20321
+2025-10-04T00:43:23Z,Klose,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/miroslav-klose/19607
+2025-10-04T00:43:23Z,Gomez,88,ST,158000.0,,,,https://www.futwiz.com/fc26/player/mario-gomez/19606
+2025-10-04T00:43:23Z,Tevez,88,ST,539000.0,,,,https://www.futwiz.com/fc26/player/carlos-tevez/19605
+2025-10-04T00:43:23Z,Beckham,88,RM,0.0,,,,https://www.futwiz.com/fc26/player/david-beckham/19604
+2025-10-04T00:43:23Z,Okocha,88,CAM,675000.0,,,,https://www.futwiz.com/fc26/player/jay-jay-okocha/19601
+2025-10-04T00:43:23Z,Rooney,88,ST,0.0,,,,https://www.futwiz.com/fc26/player/wayne-rooney/19600
+2025-10-04T00:43:23Z,Sneijder,88,CAM,579000.0,,,,https://www.futwiz.com/fc26/player/wesley-sneijder/19599
+2025-10-04T00:43:23Z,Marquez,88,CB,136000.0,,,,https://www.futwiz.com/fc26/player/rafael-marquez/19598
+2025-10-04T00:43:23Z,Kompany,88,CB,575000.0,,,,https://www.futwiz.com/fc26/player/vincent-kompany/19597
+2025-10-04T00:43:23Z,Koeman,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/ronald-koeman/19596
+2025-10-04T00:43:23Z,Scholes,88,CM,0.0,,,,https://www.futwiz.com/fc26/player/paul-scholes/19595
+2025-10-04T00:43:23Z,Ricardo Carvalho,88,CB,240000.0,,,,https://www.futwiz.com/fc26/player/ricardo-carvalho/19594
+2025-10-04T00:43:23Z,Maicon,88,RB,490000.0,,,,https://www.futwiz.com/fc26/player/maicon/19592
+2025-10-04T00:43:23Z,Thuram,88,RB,0.0,,,,https://www.futwiz.com/fc26/player/lilian-thuram/19590
+2025-10-04T00:43:23Z,Di Natale,88,ST,1920000.0,,,,https://www.futwiz.com/fc26/player/antonio-di-natale/19589
+2025-10-04T00:43:23Z,Kesler,88,CM,137000.0,,,,https://www.futwiz.com/fc26/player/nadine-kesler/19588
+2025-10-04T00:43:23Z,Schweinsteiger,88,CM,0.0,,,,https://www.futwiz.com/fc26/player/bastian-schweinsteiger/19587
+2025-10-04T00:43:23Z,Blanc,88,CB,0.0,,,,https://www.futwiz.com/fc26/player/laurent-blanc/19586
+2025-10-04T00:43:23Z,Ribery,88,LM,0.0,,,,https://www.futwiz.com/fc26/player/franck-ribery/19584
+2025-10-04T00:43:23Z,van der Sar,88,GK,0.0,,,,https://www.futwiz.com/fc26/player/edwin-van-der-sar/19583
+2025-10-04T00:43:23Z,Drogba,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/didier-drogba/19535
+2025-10-04T00:43:23Z,van Nistelrooy,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/ruud-van-nistelrooy/19534
+2025-10-04T00:43:23Z,Papin,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/jean-pierre-papin/19533
+2025-10-04T00:43:23Z,Schmeichel,89,GK,0.0,,,,https://www.futwiz.com/fc26/player/peter-schmeichel/19532
+2025-10-04T00:43:23Z,Nesta,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/alessandro-nesta/19531
+2025-10-04T00:43:23Z,Eto'o,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/samuel-etoo/19529
+2025-10-04T00:43:23Z,Voller,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/rudi-voller/19527
+2025-10-04T00:43:23Z,Kaka,89,CAM,0.0,,,,https://www.futwiz.com/fc26/player/kaka/19526
+2025-10-04T00:43:23Z,Lineker,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/gary-lineker/19525
+2025-10-04T00:43:23Z,Luis Figo,89,RW,0.0,,,,https://www.futwiz.com/fc26/player/luis-figo/19524
+2025-10-04T00:43:23Z,Shearer,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/alan-shearer/19523
+2025-10-04T00:43:23Z,Shaw,89,ST,19500.0,,,,https://www.futwiz.com/fc26/player/khadija-shaw/63
+2025-10-04T00:43:23Z,Patri Guijarro,89,CDM,139000.0,,,,https://www.futwiz.com/fc26/player/patri-guijarro/62
+2025-10-04T00:43:23Z,Mariona,89,CM,62500.0,,,,https://www.futwiz.com/fc26/player/mariona/61
+2025-10-04T00:43:23Z,Russo,89,ST,19000.0,,,,https://www.futwiz.com/fc26/player/alessia-russo/60
+2025-10-04T00:43:23Z,Wirtz,89,CAM,290000.0,,,,https://www.futwiz.com/fc26/player/florian-wirtz/48
+2025-10-04T00:43:23Z,Hakimi,89,RB,202000.0,,,,https://www.futwiz.com/fc26/player/achraf-hakimi/47
+2025-10-04T00:43:23Z,Valverde,89,CM,419000.0,,,,https://www.futwiz.com/fc26/player/federico-valverde/44
+2025-10-04T00:43:23Z,Kane,89,ST,20000.0,,,,https://www.futwiz.com/fc26/player/harry-kane/43
+2025-10-04T00:43:23Z,Alisson,89,GK,64000.0,,,,https://www.futwiz.com/fc26/player/alisson/40
+2025-10-04T00:43:23Z,Kimmich,89,CDM,31500.0,,,,https://www.futwiz.com/fc26/player/joshua-kimmich/38
+2025-10-04T00:43:23Z,Pedri,89,CM,124000.0,,,,https://www.futwiz.com/fc26/player/pedri/36
+2025-10-04T00:43:23Z,Donnarumma,89,GK,73500.0,,,,https://www.futwiz.com/fc26/player/gianluigi-donnarumma/34
+2025-10-04T00:43:23Z,Vitinha,89,CM,79000.0,,,,https://www.futwiz.com/fc26/player/vitinha/32
+2025-10-04T00:43:23Z,van Dijk,90,CB,159000.0,,,,https://www.futwiz.com/fc26/player/virgil-van-dijk/39
+2025-10-04T00:43:23Z,Rodri,90,CDM,31000.0,,,,https://www.futwiz.com/fc26/player/rodri/37
+2025-10-04T00:43:23Z,Seger,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/caroline-seger/20
+2025-10-04T00:43:23Z,Kroos,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/toni-kroos/18
+2025-10-04T00:43:23Z,Wirtz,89,CAM,1210000.0,,,,https://www.futwiz.com/fc26/player/florian-wirtz/20380
+2025-10-04T00:43:23Z,Valverde,89,CM,1270000.0,,,,https://www.futwiz.com/fc26/player/federico-valverde/20377
+2025-10-04T00:43:23Z,Debinha,89,CAM,244000.0,,,,https://www.futwiz.com/fc26/player/debinha/20296
+2025-10-04T00:43:23Z,Totti,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/francesco-totti/20253
+2025-10-04T00:43:23Z,Emilio Butragueno,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/emilio-butragueno/19559
+2025-10-04T00:43:23Z,Sasic,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/celia-sasic/19558
+2025-10-04T00:43:23Z,Carles Puyol,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/carles-puyol/19557
+2025-10-04T00:43:23Z,Kohler,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/jurgen-kohler/19556
+2025-10-04T00:43:23Z,Ginola,89,LM,0.0,,,,https://www.futwiz.com/fc26/player/david-ginola/19554
+2025-10-04T00:43:23Z,Cannavaro,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/fabio-cannavaro/19553
+2025-10-04T00:43:23Z,Fernando Morientes,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/fernando-morientes/19552
+2025-10-04T00:43:23Z,Dalglish,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/kenny-dalglish/19551
+2025-10-04T00:43:23Z,Jairzinho,89,RW,0.0,,,,https://www.futwiz.com/fc26/player/jairzinho/19550
+2025-10-04T00:43:23Z,Lucio,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/lucio/19549
+2025-10-04T00:43:23Z,Vialli,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/gianluca-vialli/19548
+2025-10-04T00:43:23Z,Jones,89,CB,0.0,,,,https://www.futwiz.com/fc26/player/steffi-jones/19547
+2025-10-04T00:43:23Z,Socrates,89,CAM,0.0,,,,https://www.futwiz.com/fc26/player/socrates/19546
+2025-10-04T00:43:23Z,Zanetti,89,RB,0.0,,,,https://www.futwiz.com/fc26/player/javier-zanetti/19544
+2025-10-04T00:43:23Z,Lahm,89,RB,0.0,,,,https://www.futwiz.com/fc26/player/philipp-lahm/19540
+2025-10-04T00:43:23Z,Cantona,89,ST,0.0,,,,https://www.futwiz.com/fc26/player/eric-cantona/19538
+2025-10-04T00:43:23Z,Donnarumma,89,GK,300000.0,,,,https://www.futwiz.com/fc26/player/gianluigi-donnarumma/19536
+2025-10-04T00:43:23Z,Zico,91,CAM,0.0,,,,https://www.futwiz.com/fc26/player/zico/19498
+2025-10-04T00:43:23Z,Kahn,91,GK,0.0,,,,https://www.futwiz.com/fc26/player/oliver-kahn/19497
+2025-10-04T00:43:23Z,Xavi,91,CM,0.0,,,,https://www.futwiz.com/fc26/player/xavi/19496
+2025-10-04T00:43:23Z,Cafu,91,RB,0.0,,,,https://www.futwiz.com/fc26/player/cafu/19495
+2025-10-04T00:43:23Z,Sawa,91,CM,0.0,,,,https://www.futwiz.com/fc26/player/homare-sawa/19494
+2025-10-04T00:43:23Z,Baresi,91,CB,0.0,,,,https://www.futwiz.com/fc26/player/franco-baresi/19493
+2025-10-04T00:43:23Z,Aitana Bonmati,91,CM,670000.0,,,,https://www.futwiz.com/fc26/player/aitana-bonmati/58
+2025-10-04T00:43:23Z,Mbappe,91,ST,3290000.0,,,,https://www.futwiz.com/fc26/player/kylian-mbappe/33
+2025-10-04T00:43:23Z,Henry,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/thierry-henry/30
+2025-10-04T00:43:23Z,Kane,90,ST,183000.0,,,,https://www.futwiz.com/fc26/player/harry-kane/20266
+2025-10-04T00:43:23Z,Kroos,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/toni-kroos/20258
+2025-10-04T00:43:23Z,Seger,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/caroline-seger/20254
+2025-10-04T00:43:23Z,Foudy,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/julie-foudy/19522
+2025-10-04T00:43:23Z,Del Piero,90,CAM,0.0,,,,https://www.futwiz.com/fc26/player/alessandro-del-piero/19521
+2025-10-04T00:43:23Z,Schelin,90,ST,0.0,,,,https://www.futwiz.com/fc26/player/lotta-schelin/19520
+2025-10-04T00:43:23Z,Gullit,90,CAM,0.0,,,,https://www.futwiz.com/fc26/player/ruud-gullit/19519
+2025-10-04T00:43:23Z,Abily,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/camille-abily/19517
+2025-10-04T00:43:23Z,Moore,90,CB,0.0,,,,https://www.futwiz.com/fc26/player/bobby-moore/19516
+2025-10-04T00:43:23Z,Pirlo,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/andrea-pirlo/19515
+2025-10-04T00:43:23Z,Best,90,RW,0.0,,,,https://www.futwiz.com/fc26/player/george-best/19513
+2025-10-04T00:43:23Z,Miyama,90,LM,0.0,,,,https://www.futwiz.com/fc26/player/aya-miyama/19511
+2025-10-04T00:43:23Z,Matthaus,90,CM,0.0,,,,https://www.futwiz.com/fc26/player/lothar-matthaus/19510
+2025-10-04T00:43:23Z,Bergkamp,90,ST,0.0,,,,https://www.futwiz.com/fc26/player/dennis-bergkamp/19508
+2025-10-04T00:43:23Z,Hansen,90,RW,675000.0,,,,https://www.futwiz.com/fc26/player/caroline-graham-hansen/59
+2025-10-04T00:43:23Z,Bellingham,90,CAM,130000.0,,,,https://www.futwiz.com/fc26/player/jude-bellingham/41
+2025-10-04T00:43:23Z,Pele,95,CAM,0.0,,,,https://www.futwiz.com/fc26/player/pele/20259
+2025-10-04T00:43:23Z,Ronaldo,94,ST,0.0,,,,https://www.futwiz.com/fc26/player/ronaldo/20264
+2025-10-04T00:43:23Z,Zidane,94,CAM,0.0,,,,https://www.futwiz.com/fc26/player/zinedine-zidane/20263
+2025-10-04T00:43:23Z,Ronaldinho,93,LW,0.0,,,,https://www.futwiz.com/fc26/player/ronaldinho/20260
+2025-10-04T00:43:23Z,Cruyff,93,CAM,0.0,,,,https://www.futwiz.com/fc26/player/johan-cruyff/19482
+2025-10-04T00:43:23Z,Hamm,93,ST,0.0,,,,https://www.futwiz.com/fc26/player/mia-hamm/19481
+2025-10-04T00:43:23Z,Iniesta,92,CM,0.0,,,,https://www.futwiz.com/fc26/player/andres-iniesta/20255
+2025-10-04T00:43:23Z,Angerer,92,GK,0.0,,,,https://www.futwiz.com/fc26/player/nadine-angerer/19491
+2025-10-04T00:43:23Z,Beckenbauer,92,CB,0.0,,,,https://www.futwiz.com/fc26/player/franz-beckenbauer/19489
+2025-10-04T00:43:23Z,Muller,92,ST,0.0,,,,https://www.futwiz.com/fc26/player/gerd-muller/19487
+2025-10-04T00:43:23Z,Garrincha,92,RW,0.0,,,,https://www.futwiz.com/fc26/player/garrincha/19486
+2025-10-04T00:43:23Z,Yashin,92,GK,0.0,,,,https://www.futwiz.com/fc26/player/lev-yashin/19485
+2025-10-04T00:43:23Z,Maldini,92,CB,0.0,,,,https://www.futwiz.com/fc26/player/paolo-maldini/19484
+2025-10-04T00:43:23Z,Prinz,92,ST,0.0,,,,https://www.futwiz.com/fc26/player/birgit-prinz/19483
+2025-10-04T00:43:23Z,Ronaldo,92,ST,0.0,,,,https://www.futwiz.com/fc26/player/ronaldo/26
+2025-10-04T00:43:23Z,Ibrahimovic,92,ST,0.0,,,,https://www.futwiz.com/fc26/player/zlatan-ibrahimovic/23
+2025-10-04T00:43:23Z,Iniesta,92,CM,0.0,,,,https://www.futwiz.com/fc26/player/andres-iniesta/21
+2025-10-04T00:43:23Z,Mbappe,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/kylian-mbappe/20379
+2025-10-04T00:43:23Z,Henry,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/thierry-henry/19506
+2025-10-04T00:43:23Z,Baggio,91,CAM,0.0,,,,https://www.futwiz.com/fc26/player/roberto-baggio/19504
+2025-10-04T00:43:23Z,Eusebio,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/eusebio/19503
+2025-10-04T00:43:23Z,van Basten,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/marco-van-basten/19502
+2025-10-04T00:43:23Z,Buffon,91,GK,0.0,,,,https://www.futwiz.com/fc26/player/gianluigi-buffon/19501
+2025-10-04T00:43:23Z,Carlos Alberto,91,RB,0.0,,,,https://www.futwiz.com/fc26/player/carlos-alberto/19500
+2025-10-04T00:43:23Z,Ibrahimovic,91,ST,0.0,,,,https://www.futwiz.com/fc26/player/zlatan-ibrahimovic/19499
